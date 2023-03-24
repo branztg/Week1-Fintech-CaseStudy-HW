@@ -51,24 +51,20 @@ This will be my repo for submitting my HW 1.
   for example:
   * Payment Depot - specializes in high volume business
   * Helcim - Best solution for business on a budget
-  * Elavon - best for Omnichannel business
+  * Toast - Specializes in restaurants
+  * Shopify - Specializes in ecommerce
 
 
 ## Results
 
-* What has been the business impact of this company so far?
-
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
-
+* Square has been a big player in the market with 2 million merchants (Nov/2017) and 210 Million users (Jan,2021)
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* I suggest integrating pa pay in 4 solution like afterpay which is also a Block inc. company, in order to accomodate bigger purchases from customers.
 
-* Why do you think that offering this product or service would benefit the company?
+* This would be very beneficial as it would drive new kinds of possible transactions. 
 
-* What technologies would this additional product or service utilize?
+* This would utilize recurring transactions from customers, instead of one time transactions like it commonly processes.
 
-* Why are these technologies appropriate for your solution?
+* This technology would definitely move the needle forward as it will accomodate a new way of payment.
