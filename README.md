@@ -39,11 +39,19 @@ This will be my repo for submitting my HW 1.
 
 ## Landscape
 
-* What domain of the financial industry is the company in?
+* Square is positioned well in the small to mid-size retail finance trasnsaction market, because they are
+  the most complete service available. 
 
-* What have been the major trends and innovations of this domain over the last 5–10 years?
+* The trend for the last decade in this space has been the movement to a major online presence and transactions.
 
-* What are the other major companies in this domain?
+* Square has gotten ahead of this by constantly updating their website, developer support, mobile app, and physical products like
+  card readers and cash registers.
+
+* Because Square is a complete solution, competitors have tried to specialize in specific aspects of retail in order to compete.
+  for example:
+  * Payment Depot - specializes in high volume business
+  * Helcim - Best solution for business on a budget
+  * Elavon - best for Omnichannel business
 
 
 ## Results
