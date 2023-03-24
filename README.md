@@ -29,7 +29,12 @@ This will be my repo for submitting my HW 1.
 * Their website and mobile app are integrated into multiple kinds of cash registers, credit card readers, scanners, and other devices.
 
 * The website and app hosts a multitude of different services like 
-  * point of sale
+  * Point of sale for website, in-house, and social media transactions
+  * Direct customer marketing, messaging, and loyalty programs
+  * Business banking 
+  * Staff permissions, timecards, and payrolls
+
+* Square also has Developer support and API which can easily connect third-party apps or build custom solutions and features.
 
 
 ## Landscape
