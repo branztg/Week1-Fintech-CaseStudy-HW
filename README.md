@@ -20,11 +20,16 @@ This will be my repo for submitting my HW 1.
 
 * Square markets itself as an optimal solution for small to mid size stores. Although theoretically there is
   no limit to the data you can use, which means it can also be used by bigger businesses.
+  
+* Their Ideal Customers range from Restaurants, Retail, Beauty, Services, and more. 
 
 * Square provides a seamless integration of Inhouse and on-the-go payments, Inventory management, Customer information,
   as well as staff scheduling and wages.
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
+* Their website and mobile app are integrated into multiple kinds of cash registers, credit card readers, scanners, and other devices.
+
+* The website and app hosts a multitude of different services like 
+  * point of sale
 
 
 ## Landscape
