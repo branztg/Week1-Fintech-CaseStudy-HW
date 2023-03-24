@@ -7,8 +7,8 @@ This will be my repo for submitting my HW 1.
 
 * Square was founded on 2009 by Twitter co-Founder and former CEO Jack Dorsey
 
-* He had the idea of making a his own payment gateway afer being unable to complete 
-  a transaction because the merchant does not accept a credit card.
+* He had the idea of making a his own payment gateway 
+  afer being unable to complete a transaction because the merchant does not accept a credit card.
 
 
 * How did the idea for the company (or project) come about?
