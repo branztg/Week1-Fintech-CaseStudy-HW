@@ -5,24 +5,24 @@ This will be my repo for submitting my HW 1.
 
 ## Overview and Origin
 
-* Square was founded on 2009 by Twitter co-Founder and former CEO Jack Dorsey
+* Square was founded on 2009 by Twitter co-Founder and former CEO Jack Dorsey.
 
 * He had the idea of making a his own payment gateway 
   afer being unable to complete a transaction because the merchant does not accept a credit card.
 
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
+* After multiple iterations and developments, Dorsey and co. expanded the business into Block inc. Which
+  houses multiple subcompanies including Cash App, Weebly, and Afterpay.
 
 
 ## Business Activities
 
-* What specific financial problem is the company or project trying to solve?
+* Square is a totally seamless and easy to use Commerce, Customer, Banking, and Staffing software management solution.
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+* Square markets itself as an optimal solution for small to mid size stores. Although theoretically there is
+  no limit to the data you can use, which means it can also be used by bigger businesses.
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* Square provides a seamless integration of Inhouse and on-the-go payments, Inventory management, Customer information,
+  as well as staff scheduling and wages.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
 
