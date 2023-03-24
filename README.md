@@ -68,3 +68,12 @@ This will be my repo for submitting my HW 1.
 * This would utilize recurring transactions from customers, instead of one time transactions like it commonly processes.
 
 * This technology would definitely move the needle forward as it will accomodate a new way of payment.
+
+## Sources Utilized
+
+https://en.wikipedia.org/wiki/Block,_Inc.
+https://squareup.com/us/en/blog
+https://squareup.com/us/en/why-square
+https://www.nerdwallet.com/article/small-business/square-competitors
+https://www.forbes.com/advisor/business/software/square-vs-squarespace/#:~:text=Despite%20similar%20names%2C%20Square%20and,strengths%2C%20weaknesses%20and%20price%20points.
+https://expandedramblings.com/index.php/square-statistics/
