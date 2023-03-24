@@ -5,11 +5,9 @@ This will be my repo for submitting my HW 1.
 
 ## Overview and Origin
 
-* What is the name of the company?
+* Square was founded on 2009 by Twitter co-Founder and former CEO Jack Dorsey
 
-* When was the company incorporated?
-
-* Who are the founders of the company?
+* He had the idea of making a his own payment gateway afer being unable to complete 
 
 * How did the idea for the company (or project) come about?
 
